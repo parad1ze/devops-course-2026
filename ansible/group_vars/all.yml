@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/parad1ze/devops-ci-app"
+app_tag: "f8a7896fb0632ada5fc0a04e40b881a4bb101925"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
